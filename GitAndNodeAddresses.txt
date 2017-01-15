@@ -1,0 +1,2 @@
+http://flip3.engr.oregonstate.edu:31647/
+https://github.com/armolds/CS290
